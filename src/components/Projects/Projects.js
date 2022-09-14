@@ -15,7 +15,8 @@ const Projects = () => {
           <ProjectContainer key={uniqid()} project={project} />
         ))}
       </div>
-    </section>
+{/*      <iframe src="https://giphy.com/embed/UQtd0nc8RrSKLeEZAg" width="480" height="253" frameBorder="0" className="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UQtd0nc8RrSKLeEZAg">via GIPHY</a></p>
+*/}    </section>
   )
 }
 
