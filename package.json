@@ -1,8 +1,7 @@
 {
   "name": "cleanfolio",
   "version": "0.1.0",
-  // i changed this to false idk?
-  "private": false, 
+  "private": true, 
   "homepage": "https://bperkins1.github.io/Portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.3",

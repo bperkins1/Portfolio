@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://bperkins1.github.io/Portfolio',
   title: 'BP.',
 }
 
@@ -9,10 +9,10 @@ const about = {
   name: 'Billy Perkins',
   role: 'Fullstack Developer',
   description:
-    'My varied background with non-profits led me to an internship managing county data. There I discovered my love of coding. Since then I\'ve done freelance and internship work with websites, applications, and data. I\'m now looking for a job in development.',
-  resume: 'https://example.com',
+    'My varied background with non-profits led me to an internship managing county data. There I discovered my love of coding. Since then I\'ve done freelance and internship work delivering custom websites, applications, and data. I\'m now looking for a job in development.',
+  resume: '/resume_website.pdf',
   social: {
-    linkedin: 'https://linkedin.com',
+    // linkedin: 'https://www.linkedin.com/in/billy-perkins-4298aa242/',
     github: 'https://github.com/bperkins1',
   },
 }
