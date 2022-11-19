@@ -34,7 +34,7 @@ const projects = [
       'The website for the Consumer Power Initiative, A 501c3 Non-profit and social movement aimed at ethical consumption. Features several pages, server rendering, route pre-fetching, and interactive components. (Work in Progress)',
     stack: ['Next', 'React', 'React-Bootstrap'],
     sourceCode: 'https://github.com/bperkins1/ConsumerPowerInitiativeSite',
-    livePreview: 'https://consumer-power-initiative-site-fuwqyrqvx-bperkins1.vercel.app/',
+    livePreview: 'https://consumerpowerinitiative.org',
   },
   {
     name: 'Keeper App',
