@@ -6,6 +6,8 @@ import Projects from './components/Projects/Projects'
 import Skills from './components/Skills/Skills'
 import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
+import Footer from './components/Contact/Contact'
+
 import './App.css'
 
 const App = () => {
@@ -20,9 +22,11 @@ const App = () => {
         <Projects />
         <Skills />
         <Contact />
+
       </main>
 
       <ScrollToTop />
+      <Footer />
     </div>
   )
 }
